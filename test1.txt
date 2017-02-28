@@ -1,3 +1,14 @@
+<<<<<<< HEAD
+Soyons fous, une virgule!
+lorem ipsum c'est cool
+Mais evitons les répétitions
+Car 5 lignes c'est long
+Mais
+etre ou 
+ne pas etre 
+tel est la question
+Fin
+=======
 What
 a
 nice
