@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Soyons fous, une virgule!
 lorem ipsum c'est cool
 Mais evitons les répétitions
@@ -7,3 +8,10 @@ etre ou
 ne pas etre 
 tel est la question
 Fin
+=======
+What
+a
+nice
+day
+today
+.
