@@ -1,7 +1,5 @@
-je
-vais
-me
-petit
-suissider
-les
-nuls
+Soyons fous, une virgule!
+lorem ipsum c'est cool
+Mais evitons les répétitions
+Car 5 lignes c'est long
+Fin
